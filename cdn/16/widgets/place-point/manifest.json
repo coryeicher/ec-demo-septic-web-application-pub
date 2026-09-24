@@ -1,0 +1,22 @@
+{
+  "name": "place-point",
+  "label": "Place Point",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Eichcorp",
+  "description": "Custom exb widget for placing a point feature at a new map location",
+  "copyright": "",
+  "dependency": "jimu-arcgis",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "needActiveState": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  }
+}
